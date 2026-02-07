@@ -30,6 +30,7 @@ Table: expenses
 3. Place project folder in `htdocs`
 4. Create database `expense_tracker`
 5. Create table `expenses`
-6. Open 'http://localhost/expense%20tracker/index.php`
+6. Open 'http://localhost/expense tracker/`
+
 
 
